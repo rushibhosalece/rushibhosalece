@@ -13,8 +13,7 @@
 ⚡ Fun fact: I enjoy learning new technologies and experimenting with projects.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushi_1705) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rushi_1705) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-bhosale-855879385) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
